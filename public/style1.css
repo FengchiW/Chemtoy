@@ -1,0 +1,303 @@
+
+.uppercase{
+     text-transform: uppercase;
+}
+
+.nav{
+     background: #000;
+     width: 100%;
+     height:50px; 
+     z-index: 0;
+}
+
+.bar{
+     position: relative;
+     background: #000;
+     width:90%; 
+     height:2px;
+     z-index:1;
+     margin-left: 30px;
+     margin-right: 10px;
+}
+
+.up{
+     bottom: 155px;
+}
+
+.down{
+     bottom: 90;
+}
+     
+
+.varela{
+     font-family: 'Varela Round', sans-serif;
+}
+
+
+.who{ 
+     position: relative;
+     display: inline-block;
+     color: blue;
+     bottom: 150px;
+     
+}
+
+.qs{
+     position:relative;
+     left: 200px;
+     color:black;
+     font-size:40px;
+     text-transform: capitalize;
+
+}
+
+.item{
+     position: relative;
+     left:170px;
+     width:300px;
+     margin-right: 20px;
+     color: black; 
+     font-size: 25px;
+}
+
+.swirl{
+     position: relative;
+     width: 100%;
+     height: 500px;
+}
+
+.picture{
+     display: inline-block;
+}
+
+.ilab1{
+     position: relative;
+     width: 300px;
+     margin-right: 20px;
+     margin-left: 400px; 
+     bottom: 150px;
+     right: 70px;
+     
+     
+}
+
+.title{
+     position: relative; 
+     bottom: 350px;
+     font-family: 'Varela Round', sans-serif;
+     left: 36%;
+     font-size: 50px;
+}
+
+
+.title2{
+     position: relative; 
+     bottom: 330px;
+     font-family: 'Varela Round', sans-serif;
+     font-size: 12px;
+     color: pink;
+     margin-left:200px;
+     margin-right:100px;
+     
+     
+}
+     
+.title3{
+     position: relative; 
+     font-family: 'Varela Round', sans-serif;
+     left: 36%;
+     font-size: 50px;
+     color:black;
+}
+
+.title4{
+     position: relative; 
+     font-family: 'Varela Round', sans-serif;
+     font-size: 18px;
+     color:teal;
+     display: inline-block;
+     margin-left: 30px;
+     margin-right: 10px;
+}
+
+.pink{
+     color:pink;
+}
+
+
+.box{
+    position:relative;
+    background-color:pink;
+    display: inline-block;
+}
+
+.s{
+     height:20px;
+     width: 20px;
+     left:150px;
+}
+
+.m{
+     height: 30px; 
+     width: 30px;
+     left: 550px;
+}
+
+.l{
+     height: 40px;
+     width: 30px;
+     left: 950px;
+}
+#link{
+     color: white; 
+     font-family: Roboto;
+     font-size: 15px;
+}
+
+
+.logo{
+     display: inline-block;
+     position: relative; 
+     font-family: Roboto; 
+     color: white;
+     font-size: 20px;
+     bottom: 30px;
+     left: 10px;
+}
+
+.index{
+     z-index: 0;
+}
+
+
+.footer{
+     width:100%;
+     height: 200px;
+     margin:0;
+}
+
+.inline{
+     display: inline-block;
+     position: relative;
+}
+
+.name{
+     color:white;
+}
+
+.move-right{
+     position:relative; 
+     left: 40px; 
+}
+
+.version{
+     color: white;
+     position: relative;
+     left: 200px;
+     font-family: "Roboto";
+}
+
+.date{
+     color:white;
+     position:relative;
+     left: 800px;
+     font-family: "Roboto";
+}
+
+.contact{
+     color:white;
+     position:relative;
+     left:70px;
+     top: 25px;
+}
+     
+#home{
+     position: relative; 
+     bottom: 30px;
+     margin-left: 60%;
+     z-index: 1; 
+     font-family:'Roboto', sans-serif;
+     color: white;
+     display: inline-block;  
+}
+#about{
+     position: relative; 
+     bottom: 30px;
+     margin-left: 10px; 
+     margin-right:10px; 
+     z-index: 1; 
+     display: inline-block; 
+}
+
+#func{
+     position: relative; 
+     bottom: 30px; 
+     margin-left: 10px; 
+     margin-right:10px; 
+     z-index: 1; 
+     display: inline-block; 
+}
+
+#sign-in{
+     position: relative; 
+     bottom:30px; 
+     margin-left: 50px; 
+     margin-right:10px; 
+     z-index: 1; 
+     display: inline-block;
+}
+
+.user{
+     position: relative; 
+     top:50px;
+     left: 150px;
+}
+
+.pass{
+     position: relative;
+     top:60px;
+     left:150px;
+}
+
+
+.white-space{
+     position:relative; 
+     height: 75px;
+}
+
+.log{
+     position: relative; 
+     top:60px;
+     left:150px;
+     font-size:25px;
+}
+
+.sub{
+     position: relative; 
+     top:60px; 
+     left:150px; 
+}
+
+.login-info{
+     display: inline-block;
+}
+
+.mes{
+     position:relative; 
+     color: teal;
+     bottom:135px;
+     left: 625px; 
+}
+
+.ilab3{
+     position:relative; 
+     left: 130px;
+     bottom:140px;
+}
+
+.logos{
+     position:relative;
+     left:555px;
+     bottom:100px;
+     width: 450px;
+}
