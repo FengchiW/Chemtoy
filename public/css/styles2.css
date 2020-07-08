@@ -1,0 +1,73 @@
+p {
+  font-family: Arial;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.size{
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 400px;
+  border-color: teal;
+}
+
+.description, h5{
+     font-family: Times New Roman;
+     color: teal;
+}
+
+.list{
+     background-color: #759294;
+     width= 100%;
+}
+
+.position{
+     position: relative;
+     left: 25%;
+}
+
+.center{
+     position: relative;
+     left: 45%;
+}
+
+.image-center{
+     position: relative; 
+     left: 400px;
+}
+
+h1{
+     position: relative;
+     left: 45%;
+     color: white;
+     
+}
+
+.background{
+     background-color: #070a0a;
+}
+
+#space{
+     height: 20px;
+}
+
+
+
+
+
+
+
